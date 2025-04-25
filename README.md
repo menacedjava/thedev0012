@@ -1,2 +1,2 @@
 # thedev0012
-to pr 
+to pullrequest and acievements
